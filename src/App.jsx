@@ -21,7 +21,7 @@ export default function App() {
     return (
         <>
             <header>
-                <h1>Dog Dog Dog</h1>
+                <h1>Dog Dog Dog Gallery</h1>
             </header>
             <main>
                 <Button variant="contained" onClick={fetchDogImage}>Refresh Dog</Button>
